@@ -1,2 +1,12 @@
-# expert-guacamole
-AI Prompt Templates for Multilingual E-commerce Content — Auto-generate TikTok/Amazon/Shopee tags &amp; descriptions in 10+ languages (EN, JA, KO, IT, FR, DE...). Ready for Qwen, GPT, Claude.
+# AI多语言商品文案生成器
+
+本项目提供英文、西班牙语等AI提示模板，用于自动生成电商商品描述。
+
+## 使用方法
+1. 复制对应语言的Prompt
+2. 粘贴到Claude/GPT
+3. 替换[产品信息]
+4. 生成本地化文案
+
+维护者：yangpeng2026
+
